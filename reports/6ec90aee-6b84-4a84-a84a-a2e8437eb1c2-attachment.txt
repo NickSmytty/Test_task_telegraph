@@ -1,0 +1,1 @@
+Status code must be 404, not 200. BUG FC-0000

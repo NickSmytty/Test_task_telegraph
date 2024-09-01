@@ -1,0 +1,6 @@
+pytest~=8.3.2
+allure-pytest
+requests~=2.32.3
+jsonschema~=4.23.0
+psycopg2-binary~=2.9.9
+allure-python-commons~=2.13.5
