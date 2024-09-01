@@ -1,8 +1,2 @@
-~*.*
-.~*
-*.*~
-
-__pycache__
-.idea
-*.log
-./reports
+.idea/
+reports/
