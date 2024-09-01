@@ -1,0 +1,2 @@
+Item id must be equal to 100 not 59. BUG FC-0001
+Get response after update must be equal to sent request. BUG FC-0001
