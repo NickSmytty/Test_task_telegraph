@@ -6,8 +6,6 @@ from endpoints.create_post import CreatePost
 from endpoints.delete_post import DeletePost
 from config import DATABASE, PASSWORD, USER, HOST, PORT
 
-# разобраться с БД , описание функций, юнит тесты, залить на гит
-
 
 @pytest.fixture(scope="session")
 def object_id() -> int:
